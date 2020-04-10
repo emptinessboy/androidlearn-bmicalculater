@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">简单 BMI 计算器</string>
+    <string name="weight">输入体重（KG）</string>
+    <string name="height">输入身高（CM）</string>
+    <string name="Bmi">( 点击按钮后显示 )</string>
+    <string name="Add">计 算</string>
+    <string name="who">WHO 标准</string>
+    <string name="world">亚洲标准</string>
+    <string name="cn">中国标准</string>
+    <string name="reset">重 置</string>
+    <string name="author">\@EmptineeeBoy</string>
+    <string name="result">结论：</string>
+    <string name="appTitle">BMI 计算器：</string>
+</resources>

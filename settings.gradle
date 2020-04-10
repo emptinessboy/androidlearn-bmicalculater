@@ -1,0 +1,2 @@
+rootProject.name='简单 BMI 计算器'
+include ':app'
